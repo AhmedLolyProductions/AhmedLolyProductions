@@ -2,8 +2,8 @@
 
 > *"Code, Create, Automate."*
 
-Just a teenager passionate about Python, tech, and digital creativity.  
-All other code I publish other than python is AI-generated.  
+Just a teenager passionate about Python, tech, and a begger for Bill Gates to come back from retirement.<br>
+All other code I publish other than python is AI-generated.<br>
 
 ---
 
