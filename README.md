@@ -2,8 +2,8 @@
 
 > *"Code, Create, Automate."*
 
-Just a teenager passionate about Python, tech, and a begger for Bill Gates to come back from retirement.<br>
-All other code I publish other than python is AI-generated.<br>
+Just a teenager passionate about Python, tech, and a **beggar** for Bill Gates to un-retire<br>
+All other code I publish other than python are AI-generated. I take full credit anyways 😎<br>
 
 ---
 
@@ -11,5 +11,5 @@ All other code I publish other than python is AI-generated.<br>
 
 I'm a:
 - 🔧 **Computer Hobbyist** – Love corrupting the MBR of my PC mistaking GRUB for my USB
-- 🐍 **Python Coder** – Solve a issue, and then make 5 more!
+- 🐍 **Python Coder** – Fix a bug, make a nest of five other bugs looping
 - 🎬 **Video Editor** – Amazingly trashy editing skills!
