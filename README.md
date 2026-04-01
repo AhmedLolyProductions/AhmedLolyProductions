@@ -1,8 +1,8 @@
 # 🚀 Loly Productions
 
-> *"Code, Create, Automate."*
+> *"Code, Debug, Corrupt"*
 
-Just a teenager passionate about Python, tech, and a **beggar** for Bill Gates to un-retire  
+Just a teenager coding, corrupting my PC, and a ***beggar*** for Bill Gates to un-retire
 
 ---
 
@@ -10,11 +10,11 @@ Just a teenager passionate about Python, tech, and a **beggar** for Bill Gates t
 
 I'm a:
 - 🔧 **Computer Hobbyist** – Love corrupting the MBR of my PC mistaking GRUB for my USB
-- 🐍 **Python Coder** – Fix a bug, make a nest of five other bugs looping!
-- 🎬 **Video Editor** – Amazingly trashy 180p videos!
+- 🐍 **Python Coder** – Fix a bug, make a nest of five other bugs looping
+- 🎬 **Video Editor** – Amazingly trashy video editing skills
 
 > [!NOTE]
-> All other code I publish other than python are AI-generated.
+> All other code I publish other than Python are AI generated.
 
 ## 📬 Contact Me
 [Get in touch](mailto:ahmedlolyproductions@gmail.com)
