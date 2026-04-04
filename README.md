@@ -2,7 +2,7 @@
 
 > *"Code, Debug, Corrupt"*
 
-Just a teenager coding, corrupting my PC, and a ***beggar*** for Bill Gates to un-retire
+Just a teenager coding Python, debloating my PC from MicroSlop, and a ***beggar*** for Bill Gates to un-retire
 
 ---
 
