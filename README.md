@@ -2,16 +2,16 @@
 
 > *"Code, Debug, Corrupt"*
 
-Just a teenager coding Python, debloating my PC from MicroSlop, and a ***beggar*** for Bill Gates to un-retire
+Just a teenager coding Python and debloating my PC from MicroSlop
 
 ---
 
 ## 👨‍💻 About Me
 
 I'm a:
-- 🔧 **Computer Hobbyist** – Love corrupting the MBR of my PC mistaking GRUB for my USB
+- 🔧 **Computer Hobbyist** – Debloating my MicroSlop Windows 11
 - 🐍 **Python Coder** – Fix a bug, make a nest of five other bugs looping
-- 🎬 **Video Editor** – Amazingly trashy video editing skills
+- 🎬 **Video Editor** – DaVinci Resolve used to make videos (beginner skills)
 
 > [!NOTE]
 > All other code I publish other than Python are AI generated.
