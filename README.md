@@ -2,6 +2,8 @@
 
 > *"Code, Debug, Corrupt"*
 
+https://keepandroidopen.org
+
 Just a teenager coding Python and debloating my PC from MicroSlop
 
 ---
