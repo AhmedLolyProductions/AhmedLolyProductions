@@ -14,11 +14,15 @@ I'm a:
 - 🔧 **Computer Hobbyist** – Debloating my MicroSlop Windows 11
 - 🐍 **Python Coder** – Fix a bug, make a nest of five other bugs looping
 - 🎬 **Video Editor** – DaVinci Resolve used to make videos (beginner skills)
+<br>
 
-> [!NOTE]
-> All other code I publish other than Python are AI generated.
+![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ## 📬 Contact Me
 [Get in touch](mailto:ahmedlolyproductions@gmail.com)
 > [!IMPORTANT]
 > I never check my email (sorry!)
+
+> [!NOTE]
+> All other code I publish other than Python are AI generated.
