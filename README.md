@@ -18,6 +18,7 @@ I'm a:
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![LolyOS](https://img.shields.io/badge/-LolyOS%20v1.1.5-blue?style=for-the-badge&logo=python)
 
 ## 📬 Contact Me
 [Get in touch](mailto:ahmedlolyproductions@gmail.com)
