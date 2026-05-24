@@ -19,10 +19,5 @@ Just a teenager coding Python and debloating my PC from MicroSlop
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve)
 [![LolyOS](https://img.shields.io/badge/-LolyOS%20v1.1.5-blue?style=for-the-badge&logo=python)](https://github.com/AhmedLolyProductions/LolyOS)
 
-## 📬 Contact Me
-[Get in touch](mailto:ahmedlolyproductions@gmail.com)
-> [!IMPORTANT]
-> I never check my email (sorry!)
-
 > [!NOTE]
 > All other code I publish other than Python are AI generated.
