@@ -10,7 +10,7 @@ Just a teenager coding Python and debloating my PC from MicroSlop
 
 ## 👨‍💻 About Me
 
-- 🔧 **Computer Hobbyist** – Debloating my MicroSlop Windows 11
+- 🔧 **Computer Hobbyist** – Debloating my MicroSlop Windows 11 PC
 - 🐍 **Python Coder** – Learned Python (beginner) from [mimo](https://mimo.org) and [sololearn](https://www.sololearn.com/)
 - 🎬 **Video Editor** – DaVinci Resolve used to make videos (beginner skills)
 <br>
